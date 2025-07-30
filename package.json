@@ -1,5 +1,6 @@
 {
   "name": "minista-project",
+  "homepage": "https://nataljaray.github.io/test-jsx-app",
   "private": true,
   "type": "module",
   "scripts": {
