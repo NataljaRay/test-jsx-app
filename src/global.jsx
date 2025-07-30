@@ -10,9 +10,9 @@ export default (props) => {
     } = props;
 
     const navItems = [
-        {href: '/', label: 'Home'},
-        {href: '/about', label: 'About'},
-        {href: '/news', label: 'News'},
+        {href: '/test-jsx-app/', label: 'Home'},
+        {href: '/test-jsx-app/about', label: 'About'},
+        {href: '/test-jsx-app/news', label: 'News'},
     ]
 
     return (
